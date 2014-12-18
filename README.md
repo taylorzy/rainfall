@@ -1,6 +1,11 @@
 rainfall
 ========
 
+My own solution for this twitter interview question.
+
+Text example looks crappy, please see the picture in the below url:
+http://programmingpraxis.com/2013/11/15/twitter-puddle/
+
 We have today an interview question from Twitter:
 
 Consider the following picture:
