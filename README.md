@@ -18,8 +18,8 @@ Consider the following picture:
   6|   | |    _|4      |   
   7|  _| |  _|3        |   
   8| |2  |_|2          |   
-  9|_|____1____________|___
- 10|  0 1 2 3 4 5 6 7 8 9   
+  9|_|_________________|___
+   |  0 1 2 3 4 5 6 7 8 9   
 
 In this picture we have walls of different heights. This picture is represented by an array of integers, where the value at each index is the height of the wall. The picture above is represented with an array as [2,5,1,2,3,4,7,7,6].
 
